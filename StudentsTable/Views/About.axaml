@@ -1,0 +1,13 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="450" d:DesignHeight="450"
+        x:Class="StudentsTable.Views.About"
+        Title="About"
+		Width="450"
+		Height="150">
+
+		<TextBlock  VerticalAlignment="Center" HorizontalAlignment="Center">Извеков Иван ИП-017 сделал это за 8 часов ужасных тупняков</TextBlock>
+	
+</Window>
